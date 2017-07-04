@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">basketball</string>
+    <string-array name="mkateko">
+       <item>Wits</item>
+        <item>Pirates</item>
+        <item>Chiefs</item>
+        <item>Sundowns</item>
+    </string-array>
+    <string-array name="siweya">
+        <item>Wits</item>
+        <item>Pirates</item>
+        <item>Chiefs</item>
+        <item>Sundowns</item>
+
+
+    </string-array>
+
+</resources>
